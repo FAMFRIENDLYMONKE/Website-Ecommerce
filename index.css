@@ -1,0 +1,45 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.product-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-list > .card{
+    margin: 5px;
+    
+}
+
+.offer-price{
+    font-weight: bold;
+}
+
+.normal-price{
+    color: gray;
+    text-decoration: line-through;
+
+}
+
+.discount-percent{
+    color: green;
+    font-weight: bold;
+}
+
+.footer{
+    min-height: 200px;
+    background-color: darkgray;
+}
+
+
+
+
+
+/* aboutus */
+.feature-card{
+    background-color: darkolivegreen;
+    min-height: 400px;
+    margin: 10px;
+}

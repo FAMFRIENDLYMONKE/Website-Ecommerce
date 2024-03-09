@@ -33,6 +33,24 @@
     background-color: darkgray;
 }
 
+.footer ul{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.footer li{
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.footer img{
+    height: 60%;
+    margin-top: 10%;
+    margin-left: 15%;
+}
 
 
 
@@ -42,4 +60,12 @@
     background-color: darkolivegreen;
     min-height: 400px;
     margin: 10px;
+}
+
+.heading{
+    margin:0.5% 0.5% 0.5% 0.5%;
+    text-align: center;
+    color: white;
+    /* color: green; */
+
 }
